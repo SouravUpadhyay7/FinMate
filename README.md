@@ -1,6 +1,6 @@
 # FinMate 💰 - Your Personal Finance & Investment Buddy
 
-![FinMate Banner](assets/finmate_webp.jpg)
+![FinMate Banner](assets/finmate webp.jpg)
 
 ## 📋 Overview
 FinMate is a simple yet powerful Streamlit web application that helps users:
