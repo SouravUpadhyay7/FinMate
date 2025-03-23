@@ -1,6 +1,7 @@
 # FinMate 💰 - Your Personal Finance & Investment Buddy
 
-![FinMate Banner](assets/finmate webp.jpg)
+<img src="https://github.com/SouravUpadhyay7/FinMate/blob/main/assets/finmate%20webp.jpg?raw=true" width="600"/>
+
 
 ## 📋 Overview
 FinMate is a simple yet powerful Streamlit web application that helps users:
