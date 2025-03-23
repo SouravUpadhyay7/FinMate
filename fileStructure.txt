@@ -1,0 +1,18 @@
+finmate/
+│
+├── app.py                # Main Streamlit app
+├── requirements.txt      # Dependencies
+├── config/
+│   └── kolkata.json      # City-specific config data
+│   └── jharkhand.json
+├── utils/
+│   └── calculator.py     # Core logic for expense breakdown
+│   └── report_generator.py # Generates PDF reports
+│   └── investment_advisor.py # SIP & Investment logic
+│
+├── assets/
+│   └── logo.png          # FinMate logo
+│
+├── reports/              # Auto-generated monthly reports
+│
+└── README.md
